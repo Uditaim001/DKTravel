@@ -1,0 +1,201 @@
+[
+  {
+    "id": "1",
+    "title": "Golden Triangle Tour",
+    "destination": "Delhi - Agra - Jaipur",
+    "duration": "6 Days / 5 Nights",
+    "price": 15999,
+    "originalPrice": 20000,
+    "category": "Cultural",
+    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600",
+    "description": "Explore the iconic Golden Triangle covering Delhi, Agra with the majestic Taj Mahal, and the Pink City of Jaipur.",
+    "highlights": [
+      "Taj Mahal Visit",
+      "Amber Fort",
+      "India Gate",
+      "Hawa Mahal"
+    ],
+    "included": [
+      "Hotel Stay",
+      "Breakfast",
+      "AC Transport",
+      "Guide"
+    ],
+    "excluded": [
+      "Flights",
+      "Lunch/Dinner",
+      "Personal Expenses"
+    ],
+    "maxGroup": 20,
+    "rating": 4.8,
+    "reviews": 124,
+    "featured": true,
+    "active": true,
+    "createdAt": "2026-05-30T12:08:30.914Z"
+  },
+  {
+    "id": "2",
+    "title": "Kerala Backwaters Bliss",
+    "destination": "Kochi - Alleppey - Munnar",
+    "duration": "7 Days / 6 Nights",
+    "price": 22999,
+    "originalPrice": 28000,
+    "category": "Nature",
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=600",
+    "description": "Cruise through serene backwaters, explore lush tea gardens, and experience the God's Own Country.",
+    "highlights": [
+      "Houseboat Stay",
+      "Tea Gardens",
+      "Spice Plantation",
+      "Kathakali Show"
+    ],
+    "included": [
+      "Houseboat",
+      "All Meals",
+      "Transport",
+      "Sightseeing"
+    ],
+    "excluded": [
+      "Flights",
+      "Personal Expenses"
+    ],
+    "maxGroup": 15,
+    "rating": 4.9,
+    "reviews": 98,
+    "featured": true,
+    "active": true,
+    "createdAt": "2026-05-30T12:08:30.915Z"
+  },
+  {
+    "id": "3",
+    "title": "Rajasthan Desert Safari",
+    "destination": "Jaipur - Jodhpur - Jaisalmer",
+    "duration": "8 Days / 7 Nights",
+    "price": 18999,
+    "originalPrice": 24000,
+    "category": "Adventure",
+    "image": "https://images.unsplash.com/photo-1477587458883-47145ed68bcd?w=600",
+    "description": "Ride camels through golden dunes, stay in luxury desert camps, and explore medieval forts.",
+    "highlights": [
+      "Camel Safari",
+      "Desert Camp",
+      "Fort Mehrangarh",
+      "Sam Sand Dunes"
+    ],
+    "included": [
+      "Heritage Hotels",
+      "Breakfast & Dinner",
+      "Camel Ride",
+      "Transport"
+    ],
+    "excluded": [
+      "Flights",
+      "Lunch"
+    ],
+    "maxGroup": 18,
+    "rating": 4.7,
+    "reviews": 156,
+    "featured": true,
+    "active": true,
+    "createdAt": "2026-05-30T12:08:30.915Z"
+  },
+  {
+    "id": "4",
+    "title": "Goa Beach Holiday",
+    "destination": "North & South Goa",
+    "duration": "5 Days / 4 Nights",
+    "price": 12999,
+    "originalPrice": 16000,
+    "category": "Beach",
+    "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=600",
+    "description": "Sun, sand, and sea! Enjoy Goa's vibrant beaches, Portuguese heritage, and nightlife.",
+    "highlights": [
+      "Beach Hopping",
+      "Water Sports",
+      "Old Goa Churches",
+      "Spice Farm"
+    ],
+    "included": [
+      "Beach Resort",
+      "Breakfast",
+      "Airport Transfer",
+      "Sightseeing"
+    ],
+    "excluded": [
+      "Flights",
+      "Water Sports Fees"
+    ],
+    "maxGroup": 25,
+    "rating": 4.6,
+    "reviews": 203,
+    "featured": false,
+    "active": true,
+    "createdAt": "2026-05-30T12:08:30.915Z"
+  },
+  {
+    "id": "5",
+    "title": "Himalayan Adventure Trek",
+    "destination": "Manali - Spiti - Leh",
+    "duration": "10 Days / 9 Nights",
+    "price": 28999,
+    "originalPrice": 35000,
+    "category": "Adventure",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600",
+    "description": "Conquer high-altitude passes, explore ancient monasteries, and witness breathtaking Himalayan vistas.",
+    "highlights": [
+      "Rohtang Pass",
+      "Key Monastery",
+      "Pangong Lake",
+      "Magnetic Hill"
+    ],
+    "included": [
+      "Camping & Hotels",
+      "All Meals",
+      "4x4 Vehicles",
+      "Permits"
+    ],
+    "excluded": [
+      "Flights to Manali",
+      "Personal Gear"
+    ],
+    "maxGroup": 12,
+    "rating": 4.9,
+    "reviews": 67,
+    "featured": true,
+    "active": true,
+    "createdAt": "2026-05-30T12:08:30.916Z"
+  },
+  {
+    "id": "6",
+    "title": "Varanasi Spiritual Journey",
+    "destination": "Varanasi - Sarnath - Prayagraj",
+    "duration": "4 Days / 3 Nights",
+    "price": 9999,
+    "originalPrice": 13000,
+    "category": "Spiritual",
+    "image": "https://images.unsplash.com/photo-1561361058-c24e91745713?w=600",
+    "description": "Experience the spiritual heart of India – Ganga Aarti, ancient ghats, and timeless traditions.",
+    "highlights": [
+      "Ganga Aarti",
+      "Boat Ride at Dawn",
+      "Sarnath Buddhist Site",
+      "Temple Tour"
+    ],
+    "included": [
+      "Heritage Hotel",
+      "Breakfast",
+      "Boat Ride",
+      "Guide"
+    ],
+    "excluded": [
+      "Flights",
+      "Lunch/Dinner"
+    ],
+    "maxGroup": 20,
+    "rating": 4.8,
+    "reviews": 89,
+    "featured": false,
+    "active": true,
+    "createdAt": "2026-05-30T12:08:30.916Z"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Honeymoon Special",
+    "subtitle": "Romance Redefined",
+    "price": 45999,
+    "duration": "7 Nights",
+    "destinations": [
+      "Maldives",
+      "Bali"
+    ],
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600",
+    "description": "A dreamy honeymoon escape to paradise islands with luxury stays, candlelit dinners, and unforgettable sunsets.",
+    "features": [
+      "Luxury Beach Villa",
+      "Candlelit Dinner",
+      "Couple Spa",
+      "Private Beach",
+      "Airport Transfers",
+      "Daily Breakfast"
+    ],
+    "badge": "Most Popular",
+    "active": true,
+    "createdAt": "2026-05-30T12:08:30.917Z"
+  },
+  {
+    "id": "2",
+    "title": "Family Funtime",
+    "subtitle": "Memories for Life",
+    "price": 32999,
+    "duration": "6 Nights",
+    "destinations": [
+      "Singapore",
+      "Malaysia"
+    ],
+    "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600",
+    "description": "Perfect family vacation with theme parks, cultural experiences, and comfortable stays for all ages.",
+    "features": [
+      "Universal Studios",
+      "Legoland",
+      "Cable Car",
+      "City Tour",
+      "4-Star Hotels",
+      "All Transfers"
+    ],
+    "badge": "Family Pick",
+    "active": true,
+    "createdAt": "2026-05-30T12:08:30.917Z"
+  },
+  {
+    "id": "3",
+    "title": "Adventure Seeker",
+    "subtitle": "Thrill Beyond Limits",
+    "price": 38999,
+    "duration": "8 Nights",
+    "destinations": [
+      "Nepal",
+      "Bhutan"
+    ],
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600",
+    "description": "Trek through the Himalayas, explore Tiger's Nest Monastery, and discover the last Shangri-La.",
+    "features": [
+      "Everest Base Camp View",
+      "Tiger's Nest Trek",
+      "White Water Rafting",
+      "Paragliding",
+      "Camping",
+      "Permits"
+    ],
+    "badge": "Thrill Pick",
+    "active": true,
+    "createdAt": "2026-05-30T12:08:30.917Z"
+  }
+]

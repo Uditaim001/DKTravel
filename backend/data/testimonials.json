@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "name": "Priya Sharma",
+    "location": "Mumbai",
+    "tour": "Kerala Backwaters Bliss",
+    "rating": 5,
+    "comment": "Absolutely magical experience! The houseboat stay was a dream come true. WanderLust team took care of every detail. Will definitely book again!",
+    "avatar": "PS",
+    "active": true,
+    "createdAt": "2026-05-30T12:08:30.919Z"
+  },
+  {
+    "id": "2",
+    "name": "Rahul Gupta",
+    "location": "Delhi",
+    "tour": "Rajasthan Desert Safari",
+    "rating": 5,
+    "comment": "Best trip of my life! Camel safari under the stars and the heritage hotel stay was beyond expectations. Highly recommend WanderLust!",
+    "avatar": "RG",
+    "active": true,
+    "createdAt": "2026-05-30T12:08:30.919Z"
+  },
+  {
+    "id": "3",
+    "name": "Anita & Vikram",
+    "location": "Bangalore",
+    "tour": "Honeymoon Special",
+    "rating": 5,
+    "comment": "Our honeymoon was absolutely perfect. Every moment was beautifully planned. Thank you WanderLust for making our trip so memorable!",
+    "avatar": "AV",
+    "active": true,
+    "createdAt": "2026-05-30T12:08:30.919Z"
+  }
+]
